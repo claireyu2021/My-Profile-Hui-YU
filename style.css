@@ -1,0 +1,119 @@
+/* Design General */
+
+body {
+  font-size: 18px;
+  color: rgb(30, 30, 30);
+  font-family: 'Lora', serif;
+  background-image: linear-gradient(to top, #fbf9f5 0%, #dccdc2 100%);
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 32px;
+
+}
+
+h2 {
+  font-weight: 600;
+  color: #d78732;
+  font-size: 22px;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card-white {
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+  padding: 40px;
+  margin: 20px 0;
+  box-shadow: 0 10px 20px rgba(81, 81, 81, 0.1);
+}
+
+.container {
+  width: 700px;
+  margin: 10px auto;
+}
+
+#banner {
+  width: 600px;
+  border-radius: 5px;
+  margin: 5px auto;
+}
+
+#digital-marketing {
+  width: 600px;
+  border-radius: 5px;
+}
+
+#visual-communication {
+  width: 600px;
+  border-radius: 5px;
+}
+
+#voyage {
+  width: 227px;
+  border-radius: 3px;
+}
+
+#language {
+  width: 170px;
+  border-radius: 3px;
+}
+
+#reading {
+  width: 170px;
+  border-radius: 3px;
+}
+
+
+.btn-orange {
+  background-color: #d06846;
+  color: white;
+  border-radius: 4px;
+  padding: 15px 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+}
+
+.btn-orange:hover {
+  background-color: rgb(114, 100, 92);
+  font-weight: bold;
+}
+
+#intro {
+  margin-bottom: 50px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.list-inline i {
+  font-size: 50px;
+  color: rgb(233, 148, 106);
+  letter-spacing: 30px;
+}
+
+.list-inline i:hover {
+  color: rgb(180, 180, 180);
+}
+
+#color-orange { 
+  color:#c37d14;
+}
+
+#color-yellow { 
+  color:#e1d359;
+}
